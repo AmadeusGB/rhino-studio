@@ -1,0 +1,1 @@
+{"type":"object","additionalProperties":false,"required":["title","assumptions","steps"],"properties":{"title":{"type":"string"},"assumptions":{"type":"string"},"steps":{"type":"array","items":{"type":"object","additionalProperties":false,"required":["title","code"],"properties":{"title":{"type":"string"},"code":{"type":"string"}}}}}}

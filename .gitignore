@@ -1,0 +1,13 @@
+# Generated jobs and local runtime state
+web/data/
+web/*.log
+web/server.pid
+__pycache__/
+*.py[cod]
+.DS_Store
+.idea/
+.vscode/
+.env
+.env.*
+*.ips
+*.tmp
